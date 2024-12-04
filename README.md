@@ -1,2 +1,2 @@
 # MajorProject
-WanderLust- trying to make mini Airbnb
+WanderLust- trying to make mini Airbnb website.
